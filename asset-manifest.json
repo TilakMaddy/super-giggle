@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/super-giggle%20/static/css/main.50720ed8.chunk.css",
+    "main.js": "/super-giggle%20/static/js/main.b82a9483.chunk.js",
+    "main.js.map": "/super-giggle%20/static/js/main.b82a9483.chunk.js.map",
+    "runtime-main.js": "/super-giggle%20/static/js/runtime-main.acf0678f.js",
+    "runtime-main.js.map": "/super-giggle%20/static/js/runtime-main.acf0678f.js.map",
+    "static/js/2.7aaef059.chunk.js": "/super-giggle%20/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/super-giggle%20/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/super-giggle%20/index.html",
+    "precache-manifest.2d2551a919db5f529ebff944f1336836.js": "/super-giggle%20/precache-manifest.2d2551a919db5f529ebff944f1336836.js",
+    "service-worker.js": "/super-giggle%20/service-worker.js",
+    "static/css/main.50720ed8.chunk.css.map": "/super-giggle%20/static/css/main.50720ed8.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/super-giggle%20/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acf0678f.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.50720ed8.chunk.css",
+    "static/js/main.b82a9483.chunk.js"
+  ]
+}

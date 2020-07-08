@@ -1,7 +1,8 @@
 html {
   font-size: 62.5%;
+  min-height: 100vh;
+  background: linear-gradient(to right bottom, #317613, #443ce6) no-repeat;
 }
 body {
   font-size: 1.6rem;
-
 }

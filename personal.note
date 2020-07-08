@@ -1,0 +1,17 @@
+How to deploy a simple react project that outputs static files to gh-pages
+
+STEP 1
+go to packaje.json
+set `homepage` to `https://tilakmaddy.github.io/{ repo name on github }`
+write yarn scripts
+- predeploy : yarn build
+- deploy : gh-pages -d build
+
+
+STEP 2
+open terminal
+run command `yarn deploy`
+
+STEP 3
+sync your code base with remote
+

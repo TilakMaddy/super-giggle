@@ -8,14 +8,26 @@ class App extends Component {
 
     //before using 'this', you have to call super()
     this.state = {
-      string: 'Javascript is cool !'
+      people: [
+        { name: 'Tilak' },
+        { name : 'Mario' },
+        { name : 'Ken' },
+      ]
     }
+  }
+
+  componentDidMount() {
+
   }
 
   render() {
     return (
-      <div className="maybe-cool">
-
+      <div className="App">
+        {
+          this.state.people.map(person => {
+            return <h1 key={Math.random()}> {person.name} </h1>
+          })
+        }
       </div>
     );
   }

@@ -15,3 +15,6 @@ run command `yarn deploy`
 STEP 3
 sync your code base with remote
 
+Check the `gh-pages` branch of this repo to see exactly what static assets github stores 
+(The building happens locally in your computer but the built folder gets uploaded)
+

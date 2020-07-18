@@ -1,9 +1,10 @@
 html {
   overscroll-behavior: none;
-  font-size: 62.5%;
+  font-size: 62.5%; /*sets 1rem value to be 10px*/
   min-height: 100vh;
   background: linear-gradient(to right bottom, #317613, #443ce6) no-repeat;
 }
+
 body {
   overscroll-behavior: none;
   font-size: 1.6rem;
